@@ -1,0 +1,7 @@
+[
+	{
+		"id"		:	"username",
+		"type"		:	"text",
+		"label"		:	"Default Tumblr username"
+	}
+]
