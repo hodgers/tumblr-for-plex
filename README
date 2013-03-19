@@ -1,1 +1,25 @@
-Hello world!
+===============
+Tumblr for Plex
+by hodgers
+March 2013
+===============
+
+--
+
+INSTALLATION
+
+Simply escort Tumblr.bundle into the bosom of ~/Library/Application Support/Plex Media Server/Plug-ins/
+
+--
+
+DISCLAIMER
+
+I'm no programmer. In fact, this is my very first stab at anything in Python.
+
+I cobbled what's here together from bits of other plug-ins and make no guarantee that it'll work anywhere other than on my own machine. How lovely it'd be if someone more capable than me were able/inclined to develop it into something slightly less amateur.
+
+--
+
+PS
+
+Yes, I know Resources/art-default.jpg and Resources/web-flickr-logo.png contain Flickr graphics. It was low on the priorities list to change them...
